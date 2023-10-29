@@ -1,0 +1,366 @@
+.container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.i-phone1415-pro-max10 {
+  width: 100%;
+  height: 932px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+.rectangle6 {
+  top: 0px;
+  left: 0px;
+  width: 430px;
+  height: 125px;
+  position: absolute;
+}
+.group4 {
+  top: 75px;
+  left: 17px;
+  width: 41px;
+  height: 34px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.rectangle7 {
+  top: 0px;
+  left: 0px;
+  width: 41px;
+  height: 8px;
+  position: absolute;
+  border-radius: 3px;
+}
+.rectangle8 {
+  top: 13px;
+  left: 0px;
+  width: 41px;
+  height: 8px;
+  position: absolute;
+  border-radius: 3px;
+}
+.rectangle9 {
+  top: 26px;
+  left: 0px;
+  width: 41px;
+  height: 8px;
+  position: absolute;
+  border-radius: 3px;
+}
+.text {
+  top: 65px;
+  left: 84px;
+  color: rgba(255, 255, 255, 1);
+  width: 262px;
+  height: auto;
+  position: absolute;
+  font-size: 40px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Baloo;
+  font-weight: 400;
+  line-height: 108.39999914169312%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.rectangle10 {
+  top: 156px;
+  left: 24px;
+  width: 382px;
+  height: 66px;
+  position: absolute;
+  border-radius: 10px;
+}
+.text02 {
+  top: 176px;
+  left: 37px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Baloo;
+  font-weight: 400;
+  line-height: 108.39999914169312%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.arrow1 {
+  top: 189px;
+  left: 366px;
+  width: 30px;
+  height: 1px;
+  position: absolute;
+}
+.rectangle40 {
+  top: 248px;
+  left: 24px;
+  width: 382px;
+  height: 338px;
+  position: absolute;
+  border-radius: 15px;
+}
+.rectangle41 {
+  top: 619px;
+  left: 24px;
+  width: 382px;
+  height: 284px;
+  position: absolute;
+  border-radius: 15px;
+}
+.text04 {
+  top: 277px;
+  left: 37px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Baloo;
+  font-weight: 400;
+  line-height: 108.39999914169312%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.text06 {
+  top: 632px;
+  left: 37px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Baloo;
+  font-weight: 400;
+  line-height: 108.39999914169312%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.line4 {
+  top: 322px;
+  left: 24.999267578125px;
+  width: 381px;
+  height: 1px;
+  position: absolute;
+}
+.line5 {
+  top: 388px;
+  left: 24px;
+  width: 381px;
+  height: 1px;
+  position: absolute;
+}
+.line6 {
+  top: 454px;
+  left: 24px;
+  width: 381px;
+  height: 1px;
+  position: absolute;
+}
+.line7 {
+  top: 520px;
+  left: 24px;
+  width: 381px;
+  height: 1px;
+  position: absolute;
+}
+.line8 {
+  top: 586px;
+  left: 37px;
+  width: 353px;
+  height: 1px;
+  position: absolute;
+}
+.text08 {
+  top: 344px;
+  left: 37px;
+  color: rgba(80, 79, 79, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Baloo;
+  font-weight: 400;
+  line-height: 108.39999914169312%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.text10 {
+  top: 408px;
+  left: 37px;
+  color: rgba(80, 79, 79, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Baloo;
+  font-weight: 400;
+  line-height: 108.39999914169312%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.text12 {
+  top: 474px;
+  left: 37px;
+  color: rgba(80, 79, 79, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Baloo;
+  font-weight: 400;
+  line-height: 108.39999914169312%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.text14 {
+  top: 540px;
+  left: 37px;
+  color: rgba(80, 79, 79, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Baloo;
+  font-weight: 400;
+  line-height: 108.39999914169312%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.text16 {
+  top: 678px;
+  left: 37px;
+  color: rgba(80, 79, 79, 1);
+  width: 353px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.component1 {
+  top: 343px;
+  left: 337px;
+  width: 57px;
+  height: 25px;
+  display: flex;
+  position: absolute;
+  box-shadow: 0px 2px 2px 0px rgba(0, 0, 0, 0.25) ;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.rectangle51 {
+  top: 0px;
+  left: 0px;
+  width: 57px;
+  height: 25px;
+  position: absolute;
+  border-radius: 11.5px;
+}
+.ellipse3 {
+  top: 3px;
+  left: 4px;
+  width: 18px;
+  height: 18px;
+  position: absolute;
+}
+.component2 {
+  top: 408px;
+  left: 337px;
+  width: 57px;
+  height: 25px;
+  display: flex;
+  position: absolute;
+  box-shadow: 0px 2px 2px 0px rgba(0, 0, 0, 0.25) ;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.rectangle511 {
+  top: 0px;
+  left: 0px;
+  width: 57px;
+  height: 25px;
+  position: absolute;
+  border-radius: 11.5px;
+}
+.ellipse31 {
+  top: 3px;
+  left: 4px;
+  width: 18px;
+  height: 18px;
+  position: absolute;
+}
+.component3 {
+  top: 474px;
+  left: 337px;
+  width: 57px;
+  height: 25px;
+  display: flex;
+  position: absolute;
+  box-shadow: 0px 2px 2px 0px rgba(0, 0, 0, 0.25) ;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.rectangle512 {
+  top: 0px;
+  left: 0px;
+  width: 57px;
+  height: 25px;
+  position: absolute;
+  border-radius: 11.5px;
+}
+.ellipse32 {
+  top: 3px;
+  left: 4px;
+  width: 18px;
+  height: 18px;
+  position: absolute;
+}
+.component4 {
+  top: 540px;
+  left: 337px;
+  width: 57px;
+  height: 25px;
+  display: flex;
+  position: absolute;
+  box-shadow: 0px 2px 2px 0px rgba(0, 0, 0, 0.25) ;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.rectangle513 {
+  top: 0px;
+  left: 0px;
+  width: 57px;
+  height: 25px;
+  position: absolute;
+  border-radius: 11.5px;
+}
+.ellipse33 {
+  top: 3px;
+  left: 4px;
+  width: 18px;
+  height: 18px;
+  position: absolute;
+}
