@@ -1,0 +1,940 @@
+.container {
+    width: 100%;
+    display: flex;
+    overflow: auto;
+    min-height: 100vh;
+    align-items: center;
+    flex-direction: column;
+  }
+  .i-phone1415-pro-max4 {
+    width: 100%;
+    height: 932px;
+    display: flex;
+    overflow: hidden;
+    position: relative;
+    align-items: flex-start;
+    flex-shrink: 0;
+    background-color: rgba(255, 255, 255, 1);
+  }
+  .rectangle6 {
+    top: 0px;
+    left: 0px;
+    width: 430px;
+    height: 125px;
+    position: absolute;
+  }
+  .iconparktwotoneback {
+    top: 68px;
+    left: 13px;
+    width: 48px;
+    height: 48px;
+    display: flex;
+    overflow: hidden;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+  }
+  .maskgroup {
+    top: 7px;
+    left: 4px;
+    width: 40px;
+    height: 34px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .group {
+    top: 0px;
+    left: 0px;
+    width: 40px;
+    height: 34px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .vector {
+    top: 0px;
+    left: 0px;
+    width: 40px;
+    height: 34px;
+    position: absolute;
+  }
+  .vector01 {
+    top: -7px;
+    left: -4px;
+    width: 48px;
+    height: 48px;
+    position: absolute;
+  }
+  .text {
+    top: 71px;
+    left: 79px;
+    color: rgba(255, 255, 255, 1);
+    height: auto;
+    position: absolute;
+    font-size: 40px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Baloo;
+    font-weight: 400;
+    line-height: 108.39999914169312%;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .group4 {
+    top: 160px;
+    left: 13px;
+    width: 404px;
+    height: 654px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .rectangle10 {
+    top: 0px;
+    left: 0px;
+    width: 404px;
+    height: 66px;
+    position: absolute;
+    border-color: rgba(253, 80, 80, 1);
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 10px;
+  }
+  .frameiconemergencyphone {
+    top: 13px;
+    left: 18px;
+    width: 46px;
+    height: 41px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .vector02 {
+    top: 0px;
+    left: 0px;
+    width: 46px;
+    height: 41px;
+    position: absolute;
+  }
+  .rectangle11 {
+    top: 84px;
+    left: 0px;
+    width: 404px;
+    height: 66px;
+    position: absolute;
+    border-color: rgba(253, 80, 80, 1);
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 10px;
+  }
+  .rectangle12 {
+    top: 168px;
+    left: 0px;
+    width: 404px;
+    height: 66px;
+    position: absolute;
+    border-color: rgba(253, 80, 80, 1);
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 10px;
+  }
+  .rectangle13 {
+    top: 252px;
+    left: 0px;
+    width: 404px;
+    height: 66px;
+    position: absolute;
+    border-color: rgba(253, 80, 80, 1);
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 10px;
+  }
+  .rectangle14 {
+    top: 336px;
+    left: 0px;
+    width: 404px;
+    height: 66px;
+    position: absolute;
+    border-color: rgba(253, 80, 80, 1);
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 10px;
+  }
+  .rectangle15 {
+    top: 420px;
+    left: 0px;
+    width: 404px;
+    height: 66px;
+    position: absolute;
+    border-color: rgba(253, 80, 80, 1);
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 10px;
+  }
+  .rectangle16 {
+    top: 504px;
+    left: 0px;
+    width: 404px;
+    height: 66px;
+    position: absolute;
+    border-color: rgba(253, 80, 80, 1);
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 10px;
+  }
+  .rectangle17 {
+    top: 588px;
+    left: 0px;
+    width: 404px;
+    height: 66px;
+    position: absolute;
+    border-color: rgba(253, 80, 80, 1);
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 10px;
+  }
+  .text02 {
+    top: 9px;
+    left: 89px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 24px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Baloo;
+    font-weight: 400;
+    line-height: 108.39999914169312%;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .text03 {
+    color: rgba(0, 0, 0, 1);
+  }
+  .text08 {
+    top: 93px;
+    left: 89px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 24px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Baloo;
+    font-weight: 400;
+    line-height: 108.39999914169312%;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .text09 {
+    color: rgba(0, 0, 0, 1);
+  }
+  .text14 {
+    top: 177px;
+    left: 89px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 24px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Baloo;
+    font-weight: 400;
+    line-height: 108.39999914169312%;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .text15 {
+    color: rgba(0, 0, 0, 1);
+  }
+  .text20 {
+    top: 261px;
+    left: 89px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 24px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Baloo;
+    font-weight: 400;
+    line-height: 108.39999914169312%;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .text21 {
+    color: rgba(0, 0, 0, 1);
+  }
+  .text26 {
+    top: 345px;
+    left: 89px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 24px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Baloo;
+    font-weight: 400;
+    line-height: 108.39999914169312%;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .text27 {
+    color: rgba(0, 0, 0, 1);
+  }
+  .text32 {
+    top: 429px;
+    left: 89px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 24px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Baloo;
+    font-weight: 400;
+    line-height: 108.39999914169312%;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .text33 {
+    color: rgba(0, 0, 0, 1);
+  }
+  .text38 {
+    top: 513px;
+    left: 89px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 24px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Baloo;
+    font-weight: 400;
+    line-height: 108.39999914169312%;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .text39 {
+    color: rgba(0, 0, 0, 1);
+  }
+  .text44 {
+    top: 597px;
+    left: 89px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 24px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Baloo;
+    font-weight: 400;
+    line-height: 108.39999914169312%;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .text45 {
+    color: rgba(0, 0, 0, 1);
+  }
+  .frameiconphone {
+    top: 6px;
+    left: 344px;
+    width: 54px;
+    height: 54px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .vector03 {
+    top: 0px;
+    left: 0px;
+    width: 54px;
+    height: 54px;
+    position: absolute;
+  }
+  .vector04 {
+    top: 15.1875px;
+    left: 13.499873161315918px;
+    width: 27px;
+    height: 27px;
+    opacity: 0.20;
+    position: absolute;
+  }
+  .vector05 {
+    top: 13.5px;
+    left: 13.499873161315918px;
+    width: 27px;
+    height: 27px;
+    position: absolute;
+  }
+  .frameiconphone1 {
+    top: 90px;
+    left: 344px;
+    width: 54px;
+    height: 54px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .vector06 {
+    top: 0px;
+    left: 0px;
+    width: 54px;
+    height: 54px;
+    position: absolute;
+  }
+  .vector07 {
+    top: 15.1875px;
+    left: 13.499873161315918px;
+    width: 27px;
+    height: 27px;
+    opacity: 0.20;
+    position: absolute;
+  }
+  .vector08 {
+    top: 13.5px;
+    left: 13.499873161315918px;
+    width: 27px;
+    height: 27px;
+    position: absolute;
+  }
+  .frameiconphone2 {
+    top: 174px;
+    left: 344px;
+    width: 54px;
+    height: 54px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .vector09 {
+    top: 0px;
+    left: 0px;
+    width: 54px;
+    height: 54px;
+    position: absolute;
+  }
+  .vector10 {
+    top: 15.1875px;
+    left: 13.499873161315918px;
+    width: 27px;
+    height: 27px;
+    opacity: 0.20;
+    position: absolute;
+  }
+  .vector11 {
+    top: 13.5px;
+    left: 13.499873161315918px;
+    width: 27px;
+    height: 27px;
+    position: absolute;
+  }
+  .frameiconphone3 {
+    top: 258px;
+    left: 344px;
+    width: 54px;
+    height: 54px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .vector12 {
+    top: 0px;
+    left: 0px;
+    width: 54px;
+    height: 54px;
+    position: absolute;
+  }
+  .vector13 {
+    top: 15.1875px;
+    left: 13.499873161315918px;
+    width: 27px;
+    height: 27px;
+    opacity: 0.20;
+    position: absolute;
+  }
+  .vector14 {
+    top: 13.5px;
+    left: 13.499873161315918px;
+    width: 27px;
+    height: 27px;
+    position: absolute;
+  }
+  .frameiconphone4 {
+    top: 342px;
+    left: 344px;
+    width: 54px;
+    height: 54px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .vector15 {
+    top: 0px;
+    left: 0px;
+    width: 54px;
+    height: 54px;
+    position: absolute;
+  }
+  .vector16 {
+    top: 15.1875px;
+    left: 13.499873161315918px;
+    width: 27px;
+    height: 27px;
+    opacity: 0.20;
+    position: absolute;
+  }
+  .vector17 {
+    top: 13.5px;
+    left: 13.499873161315918px;
+    width: 27px;
+    height: 27px;
+    position: absolute;
+  }
+  .frameiconphone5 {
+    top: 426px;
+    left: 344px;
+    width: 54px;
+    height: 54px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .vector18 {
+    top: 0px;
+    left: 0px;
+    width: 54px;
+    height: 54px;
+    position: absolute;
+  }
+  .vector19 {
+    top: 15.1875px;
+    left: 13.499873161315918px;
+    width: 27px;
+    height: 27px;
+    opacity: 0.20;
+    position: absolute;
+  }
+  .vector20 {
+    top: 13.5px;
+    left: 13.499873161315918px;
+    width: 27px;
+    height: 27px;
+    position: absolute;
+  }
+  .frameiconphone6 {
+    top: 510px;
+    left: 344px;
+    width: 54px;
+    height: 54px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .vector21 {
+    top: 0px;
+    left: 0px;
+    width: 54px;
+    height: 54px;
+    position: absolute;
+  }
+  .vector22 {
+    top: 15.1875px;
+    left: 13.499873161315918px;
+    width: 27px;
+    height: 27px;
+    opacity: 0.20;
+    position: absolute;
+  }
+  .vector23 {
+    top: 13.5px;
+    left: 13.499873161315918px;
+    width: 27px;
+    height: 27px;
+    position: absolute;
+  }
+  .frameiconphone7 {
+    top: 594px;
+    left: 344px;
+    width: 54px;
+    height: 54px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .vector24 {
+    top: 0px;
+    left: 0px;
+    width: 54px;
+    height: 54px;
+    position: absolute;
+  }
+  .vector25 {
+    top: 15.1875px;
+    left: 13.499873161315918px;
+    width: 27px;
+    height: 27px;
+    opacity: 0.20;
+    position: absolute;
+  }
+  .vector26 {
+    top: 13.5px;
+    left: 13.499873161315918px;
+    width: 27px;
+    height: 27px;
+    position: absolute;
+  }
+  .frameicon-mobile-clinic {
+    top: 177px;
+    left: 13px;
+    width: 55.71428680419922px;
+    height: 46.79999923706055px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .vector27 {
+    top: 0px;
+    left: 0px;
+    width: 56px;
+    height: 47px;
+    position: absolute;
+  }
+  .frameicon-police-officer {
+    top: 94px;
+    left: 18px;
+    width: 44px;
+    height: 46px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .group1 {
+    top: 0px;
+    left: 0px;
+    width: 44px;
+    height: 46px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .vector28 {
+    top: 29.189529418945312px;
+    left: -2.2737367544323206e-13px;
+    width: 44px;
+    height: 17px;
+    position: absolute;
+  }
+  .vector29 {
+    top: 13.463508605957031px;
+    left: 11px;
+    width: 22px;
+    height: 13px;
+    position: absolute;
+  }
+  .vector30 {
+    top: 12.341568946838379px;
+    left: 9.777602195739746px;
+    width: 24px;
+    height: 6px;
+    position: absolute;
+  }
+  .vector31 {
+    top: 0px;
+    left: 7.333280563354492px;
+    width: 29px;
+    height: 10px;
+    position: absolute;
+  }
+  .frameemojifireengine {
+    top: 265px;
+    left: 16px;
+    width: 49px;
+    height: 40.96400833129883px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .vector32 {
+    top: 10.46967887878418px;
+    left: 3.2306101322174072px;
+    width: 8px;
+    height: 9px;
+    position: absolute;
+  }
+  .vector33 {
+    top: 2.4336819648742676px;
+    left: 6.133184909820557px;
+    width: 5px;
+    height: 10px;
+    position: absolute;
+  }
+  .vector34 {
+    top: 6.659928798675537px;
+    left: 4.087215900421143px;
+    width: 9px;
+    height: 3px;
+    position: absolute;
+  }
+  .vector35 {
+    top: 0px;
+    left: 13.0096435546875px;
+    width: 36px;
+    height: 8px;
+    position: absolute;
+  }
+  .vector36 {
+    top: 8.29734992980957px;
+    left: 0px;
+    width: 49px;
+    height: 28px;
+    position: absolute;
+  }
+  .vector37 {
+    top: 22.99734115600586px;
+    left: 0.13883249461650848px;
+    width: 15px;
+    height: 3px;
+    position: absolute;
+  }
+  .vector38 {
+    top: 22.88709831237793px;
+    left: 22.0498104095459px;
+    width: 27px;
+    height: 3px;
+    position: absolute;
+  }
+  .vector39 {
+    top: 8.29734992980957px;
+    left: 14.699873924255371px;
+    width: 7px;
+    height: 21px;
+    position: absolute;
+  }
+  .vector40 {
+    top: 10.988258361816406px;
+    left: 3.2306101322174072px;
+    width: 8px;
+    height: 9px;
+    position: absolute;
+  }
+  .vector41 {
+    top: 29.530675888061523px;
+    left: 4.9000630378723145px;
+    width: 11px;
+    height: 11px;
+    position: absolute;
+  }
+  .vector42 {
+    top: 32.797340393066406px;
+    left: 8.1665620803833px;
+    width: 5px;
+    height: 5px;
+    position: absolute;
+  }
+  .vector43 {
+    top: 29.530675888061523px;
+    left: 34.30012512207031px;
+    width: 11px;
+    height: 11px;
+    position: absolute;
+  }
+  .vector44 {
+    top: 32.797340393066406px;
+    left: 37.56662368774414px;
+    width: 5px;
+    height: 5px;
+    position: absolute;
+  }
+  .frameicon-pregnant {
+    top: 350px;
+    left: 32px;
+    width: 16px;
+    height: 37.086551666259766px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .group2 {
+    top: 0px;
+    left: 0px;
+    width: 16px;
+    height: 37.086551666259766px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .vector45 {
+    top: 7.179131031036377px;
+    left: 9.094947017729282e-13px;
+    width: 16px;
+    height: 30px;
+    position: absolute;
+  }
+  .vector46 {
+    top: 0px;
+    left: 6.617005348205566px;
+    width: 6px;
+    height: 6px;
+    position: absolute;
+  }
+  .group3 {
+    top: 431px;
+    left: 19px;
+    width: 38.50005340576172px;
+    height: 43.99999237060547px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .vector47 {
+    top: 27.11582374572754px;
+    left: 4.630087375640869px;
+    width: 29px;
+    height: 17px;
+    position: absolute;
+  }
+  .vector48 {
+    top: 35.301753997802734px;
+    left: 15.262829780578613px;
+    width: 8px;
+    height: 6px;
+    position: absolute;
+  }
+  .vector49 {
+    top: 32.03678512573242px;
+    left: 29.239028930664062px;
+    width: 9px;
+    height: 9px;
+    position: absolute;
+  }
+  .vector50 {
+    top: 32.035926818847656px;
+    left: -9.094947017729282e-13px;
+    width: 9px;
+    height: 9px;
+    position: absolute;
+  }
+  .group4 {
+    top: 0px;
+    left: 4.630087375640869px;
+    width: 29.23904800415039px;
+    height: 24.046127319335938px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .vector51 {
+    top: 11.76725959777832px;
+    left: 2.658592700958252px;
+    width: 24px;
+    height: 12px;
+    position: absolute;
+  }
+  .vector52 {
+    top: 0px;
+    left: 0px;
+    width: 29px;
+    height: 9px;
+    position: absolute;
+  }
+  .vector53 {
+    top: 10.74401569366455px;
+    left: 1.329398512840271px;
+    width: 27px;
+    height: 5px;
+    position: absolute;
+  }
+  .frameicon-woman {
+    top: 512px;
+    left: 25px;
+    width: 26.54166603088379px;
+    height: 49px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .group5 {
+    top: 0px;
+    left: 0px;
+    width: 26.54166603088379px;
+    height: 49px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .vector54 {
+    top: 12.564046859741211px;
+    left: 0px;
+    width: 27px;
+    height: 36px;
+    position: absolute;
+  }
+  .vector55 {
+    top: 0px;
+    left: 8.44580078125px;
+    width: 10px;
+    height: 10px;
+    position: absolute;
+  }
+  .group6 {
+    top: 598px;
+    left: 14px;
+    width: 52.157020568847656px;
+    height: 47px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .vector56 {
+    top: 3.31304931640625px;
+    left: 0px;
+    width: 26px;
+    height: 42px;
+    position: absolute;
+  }
+  .vector57 {
+    top: 0px;
+    left: 26px;
+    width: 26px;
+    height: 47px;
+    position: absolute;
+  }
+  @media(max-width: 479px) {
+    .i-phone1415-pro-max4 {
+      width: 431px;
+    }
+    .text38 {
+      top: 495px;
+      left: 89px;
+    }
+    .vector54 {
+      left: 0px;
+      bottom: 4px;
+    }
+  }
